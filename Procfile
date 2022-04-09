@@ -1,1 +1,1 @@
-web: start index.html
+web: open index.html
